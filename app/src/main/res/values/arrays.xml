@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sociologistNames">
+        <item>Erickson</item>
+        <item>Piaget</item>
+        <item>Kohlberg</item>
+    </string-array>
+
+    <string-array name="sociologistID">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="ericksonRange">
+        <item>Trust vs Mistrust (0-2)</item>
+        <item>Autonomy vs Shame (2-3)</item>
+        <item>Initiatives vs Guilt (3-5)</item>
+        <item>Industry vs Inferiority (6-12)</item>
+        <item>Identity vs Identity Confusion (13-18)</item>
+        <item>Intimacy vs Isolation (18-30)</item>
+        <item>Generativity vs Stagnation (30-50)</item>
+        <item>Ego Identity vs Ego Despair (50+)</item>
+    </string-array>
+
+    <string-array name="ericksonDetails">
+        <item>@string/erickson0</item>
+        <item>@string/erickson1</item>
+        <item>@string/erickson2</item>
+        <item>@string/erickson3</item>
+        <item>@string/erickson4</item>
+        <item>@string/erickson5</item>
+        <item>@string/erickson6</item>
+        <item>@string/erickson7</item>
+    </string-array>
+
+    <string-array name="piagetRange">
+        <item>Sensorimotor Stage (0-2)</item>
+        <item>Preoperation Stage (2-7)</item>
+        <item>Concrete Operations Stage (7-11)</item>
+        <item>Formal Operations Stage (11+)</item>
+    </string-array>
+
+    <string-array name="piagetDetails">
+        <item>@string/piaget0</item>
+        <item>@string/piaget1</item>
+        <item>@string/piaget2</item>
+        <item>@string/piaget3</item>
+    </string-array>
+
+    <string-array name="kohlbergRange">
+        <item>Pre Conventional Level (0-6)</item>
+        <item>Conventional Level (6-11)</item>
+        <item>Post Conventional (11+)</item>
+    </string-array>
+
+    <string-array name="kohlbergDetails">
+        <item>@string/kohlberg0</item>
+        <item>@string/kohlberg1</item>
+        <item>@string/kohlberg2</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Socialization</string>
+    <string name="title_age_detail">Age Detail</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_about">About</string>
+
+    <string name="aboutTeacher">
+        Thank you to my teacher Mr. Sharpe
+        I am beyond thankful to spend one semester you.
+        I have acquired a tremendous amount of knowledge from you that I will take with me on my journey through life.
+    </string>
+
+    <string name="aboutParents">
+        Thank you to my wonderful parents. I could never ask more out of you. I love you mom and dad.
+    </string>
+
+    <string name="aboutGirlfriend">
+        Thank you to my girlfriend♥ You are truly everything I could ever ask for.
+        You motivate me, make me laugh, and still give me butterflies.
+        I have created so many memories with you I will never forget.
+    </string>
+
+    <string name="sociologist_preference_key">sociologistPrefKey</string>
+    <string name="sociologist_data_key">sociologistDataKey</string>
+
+    <!--Details for age groups-->
+
+    <string name="erickson0">
+        Basic biological needs are met. Emotional and physical bonds between baby and parent.
+    </string>
+
+    <string name="erickson1">
+        Self control of behavior and body functions occurs. Behaviors that are socially acceptable are learned and they wish to abide by
+    </string>
+
+    <string name="erickson2">
+        Imagination starts to develop. Language improves. Has a self-image of ones self
+    </string>
+
+    <string name="erickson3">
+        Kids learn to complete tasks. Learn to share and play nicely.
+    </string>
+
+    <string name="erickson4">
+        Child develops self-identity. Time of rebellion and question.
+    </string>
+
+    <string name="erickson5">
+        Risktaking entering into a caring and loving state.
+    </string>
+
+    <string name="erickson6">
+        Adult needs to contribute back to his or her world
+    </string>
+
+    <string name="erickson7">
+        Able to look back on the past and feel a sens of accomplishment based on what they feel is important
+    </string>
+
+
+    <string name="piaget0">
+        Child spends time on sensation and movement.
+        Learning requires motor response that is converted to pleasurable sensation.
+        Object permanence at 10 months.
+    </string>
+
+    <string name="piaget1">
+        Children are not yet able to fully function in society.
+        Vocabulary expands greatly.
+        Reversibility not yet functioning.
+        Unable to see from someone elses point of view.
+    </string>
+
+    <string name="piaget2">
+        Object permanence, conversation and reversibility are fully operational.
+        World and its values are seen in black and white. Very hard to understand grey issues.
+    </string>
+
+    <string name="piaget3">
+        Has ability to think symbolicly. Truth, justice, personal rights and freedom. Altruistic.
+        Not everyone gets to this stage.
+    </string>
+
+
+    <string name="kohlberg0">
+        Moral behavior is determined by parents.
+        Cannot grasp right and wrong.
+        They only understand punishments and rewards.
+        Very self centered.
+    </string>
+
+    <string name="kohlberg1">
+        In the beginning children need the approval of others.
+        Then children learn how to interact under certain social conditioning.
+        Child now begins to judge why people do what they do.
+        Many adults do not go beyond this stage.
+    </string>
+
+    <string name="kohlberg2">
+        Morality drives their action.
+        Personal ethics drive one\'s actions.
+        Concerned with the rights of others.
+        Very few truly reach this stage.
+    </string>
+
+</resources>
